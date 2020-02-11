@@ -1,0 +1,11 @@
+1、Git
+
+2、Vue
+
+3、SpringBoot
+
+4、VSCode编辑器
+
+5、Idea开发工具
+
+6、Maven
